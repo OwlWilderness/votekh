@@ -1,6 +1,8 @@
 # dependencies
 node_modules
-lib
+
+#forge
+packages/foundry/lib
 
 # yarn
 .yarn/*
